@@ -1,0 +1,22 @@
+Resultado: ambos os veiculos se encontram a mesma distância de Riberão Preto, a uma distâcia de 60,9 km da cidade.
+
+Resolução:
+Devido o caminhão sair de um local 100km distante de Riberão Preto, sua equação hóraria é:
+x2 = 100km - v2*t
+
+E a equação hóraria do carro é determinada por:
+x1 = v1*t
+
+O tempo de viagem sem os obtasculos do caminho é indicado por:
+tso = 100km/(80km/h) = 1,25h
+
+Calculando a sua velocidade média, considerando que ele perde 10 minutos nos pedágios e adotando o seu tempo de viagem como 1,25h + 0,17h = 1,42h, temos:
+v2 = 100km / 1,42h = 70,6 (km/h)
+
+Dessa forma, nas equações horárias podemos limpar o tempo e igualar ambas as equações para achar o ponto de cruzamento dos veiculos:
+t = x1/v1
+t = (x2-100km)/-v2
+x1 = x2 = x/v1 = (x-100km)/-v2
+-v2*x = v1*x-v1*100km
+x = (v1*100km)/v1+v2 = (110(km/h)*100km)/110(km/h)+70,6(km/h)
+x = 60,9km;
