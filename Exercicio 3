@@ -1,0 +1,23 @@
+a) 1, 3, 5, 7
+
+Nessa questão é possível perceber que o valor subseguinte é igual ao valor anterior mais dois. Portanto o número faltante dessa sequência é (7 + 2) = 9.
+
+b) 2, 4, 8, 16, 32, 64
+
+Aqui cada valor é igual ao número anterior multiplicado por dois. Dessa forma o próximo número é igual a (64 x 2) = 128
+
+c) 0, 1, 4, 9, 16, 25, 36
+
+Neste item, cada valor é igual ao valor anterior acrecido de um número ímpar, dada a sequência 1, 3, 5, 7, 9. Verificando a subtração dos dois últimos números (36 - 25) = 11, devemos acrescentar (11 + 2) = 13 ao útimo valor e somar 36 + 13, resultando em 49.
+
+d) 4, 16, 36, 64
+
+Na letra D, a sequência de números segue a lógica do quadrado dos números pares. Como o valor anterior é igual a 8² = 64 o próximo algarismo será igual a 10² = 100.
+
+e) 1, 1, 2, 3, 5, 8
+
+Nesta sequência o número é igual a soma do valor atual com o anterior. Dessa forma o próximo valor será igual a (8 + 5) = 13.
+
+f) 2, 10, 12, 16, 17, 18, 19
+
+Na letra F, a sequência segue a lógica de formalizar os números que são escritos com a inicial "d". Portanto o próximo valor da ordem é o Dozentos = 200.
